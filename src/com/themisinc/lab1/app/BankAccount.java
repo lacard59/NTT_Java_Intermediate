@@ -1,5 +1,7 @@
 package com.themisinc.lab1.app;
 
+import java.util.Date;
+
 /**
  * Created by Administrator on 6/11/2014.
  */
@@ -7,6 +9,8 @@ public class BankAccount  {
 
     private String name;
     private double balance;
+    private int acctNumber;
+    private Date dataOpenened;
 
     /**
      * Getter method for private variable "name"
@@ -109,5 +113,4 @@ public class BankAccount  {
         sb.append('}');
         return sb.toString();
     }
-
 }

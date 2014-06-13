@@ -1,4 +1,4 @@
-package com.themisinc.lab1;
+package com.themisinc.JavaBean.app;
 
 /**
  * Created by Administrator on 6/11/2014.

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JavaBean">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaBean</output-path>
+    <root id="archive" name="JavaBean.jar">
+      <element id="dir-copy" path="$PROJECT_DIR$/src/com/themisinc/JavaBean" />
+    </root>
+  </artifact>
+</component>
